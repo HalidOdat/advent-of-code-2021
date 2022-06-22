@@ -4,4 +4,4 @@
  - [Day 1 - C](./01-c/)
  - [Day 2 - Scala](./02-scala)
  - [Day 3 - Fortran](./03-fortran)
-
+ - [Day 4 - Java](./04-java)
