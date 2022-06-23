@@ -5,3 +5,4 @@
  - [Day 2 - Scala](./02-scala)
  - [Day 3 - Fortran](./03-fortran)
  - [Day 4 - Java](./04-java)
+ - [Day 5 - Perl](./05-perl)
