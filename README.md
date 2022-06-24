@@ -8,3 +8,4 @@
  - [Day 5 - Perl](./05-perl)
  - [Day 6 - Awk](./06-awk)
  - [Day 7 - D](./07-d)
+ - [Day 8 - JavaScript](./08-javascript)
