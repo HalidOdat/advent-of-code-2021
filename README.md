@@ -10,3 +10,4 @@
  - [Day 7 - D](./07-d)
  - [Day 8 - JavaScript](./08-javascript)
  - [Day 9 - Pascal](./09-pascal)
+ - [Day 10 - Python](./10-python)
